@@ -1,0 +1,44 @@
+--- Student Record System ---
+1. Add Student
+2. Display Students
+3. Search by Roll No
+4. Exit
+Enter choice: 1
+Enter Roll No: 05
+Enter Name: Pradnya
+Enter Percentage: 90
+
+--- Student Record System ---
+1. Add Student
+2. Display Students
+3. Search by Roll No
+4. Exit
+Enter choice: 2
+
+--- All Students ---
+Roll: 5 | Name: Pradnya | %: 90.00
+
+--- Student Record System ---
+1. Add Student
+2. Display Students
+3. Search by Roll No
+4. Exit
+Enter choice: 3
+Enter Roll No to search: 5
+Found: Pradnya 90.00
+
+--- Student Record System ---
+1. Add Student
+2. Display Students
+3. Search by Roll No
+4. Exit
+Enter choice: 3
+Enter Roll No to search: 6
+No record found!
+
+--- Student Record System ---
+1. Add Student
+2. Display Students
+3. Search by Roll No
+4. Exit
+Enter choice: 
